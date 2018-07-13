@@ -27,7 +27,8 @@ class PostsController extends Controller
         
         $wall_type = $request->input('wall_type'); // 0 => all posts, 1 => profile posts, 2 => group posts
         $list_type = $request->input('list_type'); // 0 => all, 1 => only text, 2 => only image
-        $optional_id = $request->input('optional_id'); // Group ID, User ID, or empty
+        $optional_id = $request->input('optional_id'); // Group ID, User ID, or
+        
         $limit = intval($request->input('limit'));
         if (empty($limit)) $limit = 20;
         $post_min_id = intval($request->input('post_min_id')); // If not empty, post_id < post_min_id
