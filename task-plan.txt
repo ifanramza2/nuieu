@@ -1,0 +1,25 @@
+Sign in V
+daftar  V
+lupa password   V
+User Role Management (Baru user biasa, yg gallery belum)
+Profile user V
+Update profile user V
+Upload foto profile V
+Timeline V
+Post to timeline V (Antara post kayak facebook atau kayak blog/wordpress)
+Update timeline V
+Timeline detail  
+facebook login V ()
+google login 
+User notification management  V
+Content verification management  
+Tag Content
+Content detail
+Updat tag content
+Create event
+view event
+share event
+join event
+Verification event
+
++ bisa liat akun tanpa login
